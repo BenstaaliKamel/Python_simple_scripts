@@ -9,8 +9,8 @@ print(palindrome_String("maaaam"))
 print(palindrome_String("no"))
 print(palindrome_String("false"))
 
-Run:****************************************
-True
-True
-False
-False
+#Run:****************************************
+#True
+#True
+#False
+#False
