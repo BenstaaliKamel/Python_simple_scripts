@@ -16,13 +16,13 @@ print(nombre_premier(9))
  
 
 
-Run:
-True
-True
-True
-False
-True
-False
-True
-False
-False
+#Run:**********************************
+#True
+#True
+#True
+#False
+#True
+#False
+#True
+#False
+#False
